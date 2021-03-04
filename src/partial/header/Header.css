@@ -1,0 +1,12 @@
+
+@media only screen and (max-width: 768px) {
+    .icon img {
+        height: 25px;
+    }
+    .navbar {
+        padding: .9rem 1rem; 
+    }
+    .bar img {
+        height: 12px;
+    }
+}

@@ -1,0 +1,8 @@
+.heart img {
+    height: 20px;
+}
+.nameStyle,
+.nameStyle:hover {
+    text-decoration: none;
+    color: black;
+}
